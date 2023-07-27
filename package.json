@@ -23,6 +23,7 @@
     "node": ">=10"
   },
   "devDependencies": {
+    "@overnight-contracts/common": "0.0.77",
     "@typechain/ethers-v5": "^9.0.0",
     "@typechain/hardhat": "^4.0.0",
     "hardhat": "^2.13.1",
